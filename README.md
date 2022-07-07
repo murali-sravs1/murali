@@ -1,2 +1,3 @@
 # murali
-print("welcome to world")
+print("welcome to world");
+print("welome to india")
